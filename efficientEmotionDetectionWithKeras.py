@@ -105,7 +105,7 @@ from tensorflow.keras import regularizers
 justTestModel = True
 
 #final model
-#GOT test_accuracy OF 68.93% and test F1 of .6878
+#GOT test_accuracy OF 68.93% and test F1 of .6924
 #stored in provenModel folder (do not alter below code or won't be able to load those weights)
 
 def initializeModel(inputShape, outputDimension):
