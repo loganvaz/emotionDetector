@@ -1,6 +1,8 @@
 # files
 efficientEmotionDetectionWithKeras is messy w/ a lot of what I experimented with left in
+
 provenModel and model2_efficient_keras are used to store the models that are used in this project
+
 cleanModel.py is a cleaned up version of the model (easier to read, but just the model)
 
 # emotionDetector
