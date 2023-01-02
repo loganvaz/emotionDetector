@@ -1,3 +1,8 @@
+#Overview
+
+Using a publically available dataset on Kaggle, I trained a deep learning model that utilized a Data Generator to predict the emotion on people's faces. Through Convolutions, Batch Normalization, and Skip-Connections, we were able to achieve a high degree of accuracy. 
+
+
 # files
 efficientEmotionDetectionWithKeras is messy w/ a lot of what I experimented with left in
 
